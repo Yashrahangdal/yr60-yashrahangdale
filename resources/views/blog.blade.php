@@ -106,7 +106,7 @@
                 </figcaption>
               </figure>
 
-            <p>RBU's distance education programs cater to regional needs, providing quality education and skill development for local industries. Collaborations with national and international institutions and industries enhance exposure to global technologies, equipping students to compete globally. Ramdeobaba University cultivates holistic growth and empowers students to spearhead global progress, merging contemporary and traditional knowledge systems within a dynamic learning milieu.</p>
+            <p>RBU's distances education programs cater to regional needs, providing quality education and skill development for local industries. Collaborations with national and international institutions and industries enhance exposure to global technologies, equipping students to compete globally. Ramdeobaba University cultivates holistic growth and empowers students to spearhead global progress, merging contemporary and traditional knowledge systems within a dynamic learning milieu.</p>
 
           </div>
 
