@@ -122,7 +122,7 @@
                   <span
                     class="m-1 inline-flex items-center rounded-full border border-gray-300/70 bg-transparent px-4 py-1 text-sm font-medium text-gray-800 dark:text-gray-400 transition duration-300 ease-in-out hover:text-red-700 dark:hover:text-red-300 sm:px-6 sm:py-2"
                   >
-                    Trends
+                    Code
                   </span>
                 </a>
               </li>
@@ -133,7 +133,7 @@
                   <span
                     class="m-1 inline-flex items-center rounded-full border border-gray-300/70 bg-transparent px-4 py-1 text-sm font-medium text-gray-800 dark:text-gray-400 transition duration-300 ease-in-out hover:text-red-700 dark:hover:text-red-300 sm:px-6 sm:py-2"
                   >
-                    Tips
+                    Solution
                   </span>
                 </a>
               </li>
@@ -144,7 +144,7 @@
                   <span
                     class="m-1 inline-flex items-center rounded-full border border-gray-300/70 bg-transparent px-4 py-1 text-sm font-medium text-gray-800 dark:text-gray-400 transition duration-300 ease-in-out hover:text-red-700 dark:hover:text-red-300 sm:px-6 sm:py-2"
                   >
-                    Lists
+                    List
                   </span>
                 </a>
               </li>
@@ -227,12 +227,7 @@
                       </div>
                     </div>
 
-                    <p class="mt-2.5 text-base leading-loose text-gray-500 dark:text-gray-400">
-                      Lorem ipsum dolor sit amet mauris quis phasellus ornare dui
-                      lectus. Laoreet habitasse eiusmod nulla odio tortor neque
-                      diam convallis morbi dolore molestie tellus faucibus
-                      pharetra.
-                    </p>
+                    
 
                     <!-- Author Social Links -->
                     <ul class="mt-3.5 flex items-center space-x-3">

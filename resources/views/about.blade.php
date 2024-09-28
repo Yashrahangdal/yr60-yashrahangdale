@@ -33,10 +33,7 @@
 
               <div>
                 <p class="mt-4 text-base leading-loose text-gray-600">
-                  Apple Inc is introducing a new feature that will allow
-                  businesses to accept credit card and digital payments with just
-                  a tap on their iPhones, bypassing hardware systems such as Block
-                  Inc's Square terminals.
+                Apple today debuted iPhone 15 Pro and iPhone 15 Pro Max, designed with aerospace-grade titanium that’s strong yet lightweight to deliver Apple’s lightest Pro models ever. The new design also features contoured edges and a customisable Action button, allowing users to personalise their iPhone experience. Powerful camera upgrades enable the equivalent of seven pro lenses with incredible image quality, including a more advanced 48MP Main camera system that now supports the new super-high-resolution 24MP default, the next generation of portraits with Focus and Depth Control, improvements to Night mode and Smart HDR, and an all-new 5x Telephoto camera exclusively on iPhone 15 Pro Max. A17 Pro unlocks next-level gaming experiences and pro performance. The new USB‑C connector is supercharged with USB 3 speeds — up to 20x faster than USB 2 — and together with new video formats, enables powerful pro workflows that were not possible before.
                 </p>
               </div>
 
@@ -86,120 +83,75 @@
             class="prose mx-auto sm:prose-lg first-letter:text-4xl first-letter:font-bold first-letter:tracking-[.15em] prose-a:transition prose-a:duration-300 prose-a:ease-in-out hover:prose-a:text-red-700 dark:text-red-300 prose-img:rounded-xl"
           >
             <p>
-              Aliqua venenatis gravida et urna molestie leo adipiscing dolore leo
-              euismod quam. Aenean porta curabitur convallis pellentesque velit
-              platea at neque phasellus. Aliquet pellentesque senectus velit magna
-              ultrices iaculis justo habitasse vitae neque ornare nullam leo. Est
-              facilisis mauris purus senectus nunc convallis praesent pharetra
-              dictum dui molestie iaculis.
+              Yash Rahangdale
             </p>
-            <h2>An awesome heading</h2>
+            <h2>My Aim</h2>
             <p>
-              Lorem ipsum dolor sit amet aliqua enim hac. Diam eros adipiscing
-              aliquam nisi do augue mattis sodales turpis lectus a. Curabitur
-              nullam sodales phasellus donec nec pharetra quisque. Nec mi congue
-              lobortis eget aliqua donec diam sollicitudin eu phasellus facilisi
-              dictumst. Venenatis volutpat mi sodales facilisi quisque pulvinar
-              luctus eros est malesuada risus porta sed id.
+             A good student . 
             </p>
             <p>
-              Lorem ipsum dolor sit amet curabitur malesuada vel praesent magna
-              tincidunt.
+            Aspiring to become a successful developer is an exciting journey that combines passion, skill, and continuous learning. Here’s a detailed look at what that path might entail:
+
+Foundational Knowledge: Start with a strong grasp of programming fundamentals. Languages like Python, Java, or JavaScript are excellent for beginners and can lead to various career paths.
+
+Building Projects: Apply your skills by working on personal or open-source projects. This not only enhances your coding abilities but also builds a portfolio that showcases your work to potential employers.
+
+Continuous Learning: The tech industry is ever-evolving, so stay updated with the latest trends and technologies. Online courses, coding bootcamps, and tutorials can help you expand your skill set.
+
+Networking: Connect with other developers through meetups, online forums, or social media. Networking can open doors to job opportunities and collaborations that enhance your learning experience.
+
+Internships and Work Experience: Seek internships or entry-level positions to gain practical experience. This is invaluable for understanding real-world applications of your skills and for building professional relationships.
+
+Problem-Solving Skills: Focus on improving your problem-solving abilities. Participate in coding challenges and hackathons to sharpen your skills and learn to think critically under pressure.
+
+Soft Skills: Develop communication and teamwork skills. Being able to articulate your ideas and collaborate with others is essential in a professional environment.
+
+Understanding Best Practices: Familiarize yourself with software development methodologies like Agile and tools like Git for version control. Knowing industry standards will make you a more effective team member.
+
+Seeking Feedback: Regularly seek feedback on your code from peers or mentors. Constructive criticism can provide insights that help you grow and improve your coding practices.
+
+Career Goals: Set clear, achievable goals for your career. Whether you aspire to be a front-end developer, back-end engineer, or data scientist, having a direction will help you focus your efforts.
             </p>
             <figure>
               <img src="images/post-content-image.jpeg" />
               <figcaption>
-                Lorem ipsum dolor sit amet fringilla consectetur netus
-                ullamcorper.
+               hardly doing my job .
               </figcaption>
             </figure>
+            
+            <h2>Problem Solver</h2>
+            <h3>Finding solution for the problem</h3>
             <p>
-              Lorem ipsum dolor sit amet netus viverra neque quisque nisi mattis
-              dapibus dictumst. Erat venenatis iaculis a tellus a auctor cursus
-              morbi neque molestie incididunt faucibus.
-            </p>
-            <ul>
-              <li>
-                Urna magna mauris hendrerit molestie rhoncus enim magna tempor
-                nisi.
-              </li>
-              <li>Lorem ipsum dolor sit amet tempus bibendum dolore ida.</li>
-              <li>
-                Eget consectetur orci sodales purus ac egestas consequat erat
-                mattis mi sapien adipiscing hac.
-              </li>
-            </ul>
-            <p>
-              Lorem ipsum dolor sit amet lobortis risus nisi lacus quisque
-              porttitor fermentum arcu adipiscing.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet <strong>bold text</strong> quam luctus
-              praesent id.Gravida donec morbi incididunt enim sed sollicitudin
-              malesuada tempus.
-            </p>
-            <h2>Another awesome heading</h2>
-            <h3>A Stacked heading</h3>
-            <p>
-              Lorem ipsum dolor sit amet dictumst in elit sagittis venenatis
-              senectus. Non nisi tortor enim pharetra rhoncus velit mauris arcu
-              senectus purus egestas urna sodales dolore. Egestas nisi turpis
-              hendrerit vivamus risus habitasse tincidunt in est enim egestas
-              dictumst sollicitudin.
+             
             </p>
             <blockquote>
               <p>
-                Lorem ipsum dolor sit pretium nullam diam facilisi. Lacus volutpat
-                malesuada fusce quis est integer euismod cras est suspendisse
-                facilisi morbi.
+              Problem-solving in programming is about breaking down complex issues into manageable parts and finding efficient solutions. Here are some strategies to minimize code complexity:
+
+Understand the Problem: Take time to fully comprehend the problem before jumping into coding. Write down requirements and constraints to clarify your goals.
+
+Break It Down: Divide the problem into smaller, more manageable sub-problems. Tackle each part individually, which simplifies your approach and makes debugging easier.
+
+Use Clear Algorithms: Choose or design algorithms that are well-suited for the task. Simple algorithms often perform better and are easier to implement and maintain.
+
+Modular Design: Write modular code by creating functions or classes that handle specific tasks. This promotes reusability and makes it easier to read and understand your code.
+
+DRY Principle: Follow the "Don't Repeat Yourself" principle. Avoid code duplication by abstracting common functionalities into reusable components.
+
+Consistent Naming Conventions: Use clear and consistent naming for variables, functions, and classes. This makes your code more readable and easier to follow.
+
+Commenting and Documentation: Write comments to explain complex logic or decisions. Proper documentation helps others (and future you) understand the code quickly.
+
+Refactor Regularly: Regularly review and refactor your code to improve clarity and efficiency. Look for opportunities to simplify or optimize your implementations.
+
+Test-Driven Development (TDD): Implement tests before writing the code. This encourages you to think through your design and helps ensure that your solutions are robust.
+
+Seek Feedback: Collaborate with peers or seek code reviews. Fresh perspectives can highlight areas of complexity you might have overlooked.
               </p>
             </blockquote>
-            <p>
-              Lorem ipsum dolor sit amet quis at praesent erat. Egestas justo ut
-              tempus elementum aenean luctus <a href="#">an awesome link</a> fusce
-              curabitur at malesuada.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet fermentum eget porta. Semper auctor
-              tellus laoreet ut vulputate ullamcorper fringilla gravida dictum.
-              Malesuada arcu aliquet cras molestie viverra vulputate netus dolore
-              aliquam dictum ornare ullamcorper. Erat pretium bibendum dolore quis
-              dictum vivamus libero curabitur consequat donec. Netus rhoncus
-              adipiscing netus non urna egestas mattis mollis nullam odio diam
-              dolore aenean.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet quis habitasse rhoncus ac lobortis
-              sapien.
-            </p>
-            <ol>
-              <li>Lorem ipsum dolor sit amet volutpat bibendum iaculis.</li>
-              <li>
-                Tortor porttitor elit nibh laoreet consectetur sodales imperdiet
-                congue duis blandit tempor phasellus.
-              </li>
-              <li>
-                Enim porta tincidunt non do gravida habitasse hendrerit convallis.
-              </li>
-            </ol>
-            <p>
-              Lorem ipsum dolor sit amet interdum incididunt tortor euismod
-              porttitor. Pulvinar consequat semper urna arcu etiam facilisi
-              elementum aenean dictumst aliquet urna elementum facilisi. Labore
-              duis fusce facilisi justo aliqua dictum et suspendisse dui dictum
-              integer. Elementum scelerisque posuere eleifend fermentum tempus
-              mauris elit enim etiam massa ornare congue. Hac pretium elit aliquam
-              augue dolore duis leo congue fringilla condimentum semper pretium
-              incididunt.
-            </p>
-            <p>
-              Est mattis enim eleifend donec erat eget tristique. Dictum habitasse
-              duis elementum feugiat elit pretium nisl curabitur lacus risus.
-              Condimentum vivamus hac vestibulum mauris aliquet massa ultrices
-              molestie. Tempor ut blandit fermentum id nisi facilisi turpis non.
-              Eleifend duis aliqua eu dapibus lacus consequat quam pulvinar et
-              aliqua luctus fames feugiat.
-            </p>
+            
+            
+           
           </div>
 
           <!-- Post Footer -->
@@ -320,10 +272,7 @@
                     </div>
 
                     <p class="mt-2.5 text-base leading-loose text-gray-500">
-                      Lorem ipsum dolor sit amet mauris quis phasellus ornare dui
-                      lectus. Laoreet habitasse eiusmod nulla odio tortor neque
-                      diam convallis morbi dolore molestie tellus faucibus
-                      pharetra.
+                    Hello! I’m Yash Rahangdale, currently a second-year student pursuing Computer Science with a specialization in AI and Machine Learning. I’m a tech enthusiast with a keen interest in data structures and algorithms, as well as problem-solving. I enjoy exploring new technologies and tackling challenges that enhance my skills in the ever-evolving tech landscape.
                     </p>
 
                     <!-- Author Social Links -->
