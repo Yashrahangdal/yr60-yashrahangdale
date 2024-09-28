@@ -28,7 +28,7 @@
               <h2
                 class="mt-3.5 text-4xl font-medium tracking-normal text-gray-900 decoration-red-300 decoration-3 transition duration-300 ease-in-out group-hover:underline sm:mt-5 sm:text-5xl sm:leading-tight md:tracking-tight lg:text-6xl"
               >
-                Apple to Turn IPhones Into Payment Terminals in Fintech Push
+                Apple to Turn IPhones Into Payment Terminals in Fintech Push button
               </h2>
 
               <div>
